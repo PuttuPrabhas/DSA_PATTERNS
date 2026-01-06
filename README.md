@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Array
 |  |
@@ -50,6 +51,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0040-combination-sum-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
