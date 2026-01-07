@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Array
 |  |
@@ -58,4 +59,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
