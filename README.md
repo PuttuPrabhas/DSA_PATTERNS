@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0040-combination-sum-ii) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
 |  |
