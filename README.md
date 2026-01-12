@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0060-permutation-sequence) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
 ## Recursion
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0040-combination-sum-ii) |
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
