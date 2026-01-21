@@ -104,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
