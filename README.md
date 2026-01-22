@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
+| [0443-string-compression](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0443-string-compression) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
