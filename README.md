@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
