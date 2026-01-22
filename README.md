@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -127,9 +128,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
