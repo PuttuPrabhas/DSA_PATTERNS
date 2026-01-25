@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3453-separate-squares-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
