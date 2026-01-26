@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3453-separate-squares-i) |
@@ -174,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->
