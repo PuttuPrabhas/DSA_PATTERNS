@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
+| [1200-minimum-absolute-difference](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
