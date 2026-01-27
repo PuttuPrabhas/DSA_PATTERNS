@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Simulation
 |  |
 | ------- |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0643-maximum-average-subarray-i) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
