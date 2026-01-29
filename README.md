@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0060-permutation-sequence) |
+| [0877-stone-game](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
 ## Recursion
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0877-stone-game](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0085-maximal-rectangle) |
 | [0283-move-zeroes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
