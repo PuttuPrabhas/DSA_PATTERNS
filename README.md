@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
