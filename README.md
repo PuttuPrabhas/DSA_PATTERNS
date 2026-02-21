@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0060-permutation-sequence) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1390-four-divisors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
