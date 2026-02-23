@@ -105,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
@@ -204,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0877-stone-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
