@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1143-longest-common-subsequence) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0868-binary-gap) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0844-backspace-string-compare) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3379-transformed-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
