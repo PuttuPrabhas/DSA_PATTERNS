@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0040-combination-sum-ii) |
+| [1980-find-unique-binary-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -123,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1980-find-unique-binary-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
