@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0905-sort-array-by-parity) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
