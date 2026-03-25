@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3453-separate-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
@@ -257,4 +259,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3546-equal-sum-grid-partition-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3546-equal-sum-grid-partition-i) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
