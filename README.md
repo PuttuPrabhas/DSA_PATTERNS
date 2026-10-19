@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3453-separate-squares-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3453-separate-squares-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PuttuPrabhas/DSA_PATTERNS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
